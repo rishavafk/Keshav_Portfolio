@@ -53,7 +53,7 @@ export function ProjectsSection() {
               </motion.div>
               <div>
                 <h3 className="text-3xl md:text-4xl text-green-400">
-                  Green Nepal
+                  Hariyo Ban
                 </h3>
                 <p className="text-green-300/70">Rotary Club of Kasthamandap Initiative</p>
               </div>
@@ -66,7 +66,7 @@ export function ProjectsSection() {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              Green Nepal is a comprehensive web platform supporting environmental conservation and 
+              Hariyo Ban is a comprehensive web platform supporting environmental conservation and 
               reforestation initiatives in Nepal. The platform enables secure donations, real-time 
               tracking of tree-planting activities, environmental impact metrics, and community engagement.
             </motion.p>
@@ -99,7 +99,7 @@ export function ProjectsSection() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <span>Visit Green Nepal</span>
+              <span>Visit Hariyo Ban</span>
               <ExternalLink className="w-4 h-4" />
             </motion.a>
           </div>

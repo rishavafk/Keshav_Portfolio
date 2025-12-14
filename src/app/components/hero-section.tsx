@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { OrbitAnimation } from './orbit-animation';
 import { ChevronDown } from 'lucide-react';
-import profileImage from "../../assets/9df61f9247ec1323a9241296e99f2b0e5c0a43af.png";
+import profileImage from "../../assets/IMG_1167.webp";
 
 export function HeroSection() {
   const scrollToAbout = () => {
