@@ -1,11 +1,28 @@
+# Keshav Shah — Portfolio Website
 
-  # Interactive Portfolio Website
+Personal academic portfolio showcasing my research, projects, and scientific writing, with a focus on physics-inspired problem solving, computational modeling, and real-world impact.
 
-  This is a code bundle for Interactive Portfolio Website. The original project is available at https://www.figma.com/design/xDcwexMFEuZxf6mg3AL1nx/Interactive-Portfolio-Website.
+## About
+This website highlights:
+- Research experience in computational science and biomedical technology
+- Environmental and sustainability-focused projects
+- Scientific writing and academic interests
+- Interactive visualizations and simulations
 
-  ## Running the code
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-  Run `npm i` to install the dependencies.
+## Featured Projects
+- **Green Nepal** — Environmental conservation and reforestation platform  
+- **Quantum Wavefunction Simulator** — Standalone computational physics project (Crank–Nicolson method)
 
-  Run `npm run dev` to start the development server.
-  
+## Live Site
+(Add link once deployed)
+
+## Author
+**Keshav Shah**  
+Physics · Engineering · Sustainability · Research
